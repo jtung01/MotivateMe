@@ -1,0 +1,13 @@
+{
+  "exercises": [
+    {
+      "duration": 30,
+      "name": "running"
+    },
+    {
+      "duration": 10,
+      "name": "squats"
+    }
+  ],
+  "name": "My workout list"
+}

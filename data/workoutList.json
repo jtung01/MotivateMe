@@ -1,0 +1,14 @@
+{
+  "exercises": [
+    {
+      "duration": 10,
+      "name": "running"
+    },
+    {
+      "duration": 30,
+      "name": "swimming"
+    }
+  ],
+  "name": "My workout list",
+  "points": 50
+}
